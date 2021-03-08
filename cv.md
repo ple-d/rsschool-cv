@@ -35,7 +35,7 @@ I was born at Yoshkar-Ola, Mari El republic. At school was interested in Informa
 
 ## Examples of my code
 
-(https://github.com/ple-d/)
+[My github](https://github.com/ple-d/)
 
 or else you can see further:
 ```
@@ -47,3 +47,25 @@ or else you can see further:
 </head>
 ```
 ---
+
+## Working experience
+
+* Bartender (2013-2015)
+* Administrator (2015-2016)
+* Technical support (2017-2020)
+* Executive director (2020-2021)
+
+---
+
+## Education
+
+* PIMU (Nizhniy Novgorod State Medical Academy 2013-2022)
+* RSSchool (2021 q1)
+
+---
+
+## English language
+
+B1 (some years ago was B2)
+
+Studied English at school, was at English language school at Maltese Republic.
